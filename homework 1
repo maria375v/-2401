@@ -1,0 +1,12 @@
+package main;
+public class home1 {
+    public static void main (String [] args){
+        private static int i=input(); {
+        }
+        int i=input();
+        while (i>0);
+        i=(i/2);
+        string s=""+string(i%2);
+        System.out.println(s);
+    }
+}
